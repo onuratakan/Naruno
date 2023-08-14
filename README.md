@@ -3,7 +3,7 @@
 
 https://github.com/ruesandora/Naruno/assets/101149671/820bbecd-ed1b-4df5-9dc5-0d838482308b
 
-
+test
 > Neden kuruyorum? Donanımı neredeyse hiç yok deneliecek kadar az, sunucu almadım bir node'un yanına kurdum.
 
 > Teşvikli evet, 1000 kişi ile sınırlı, ne kadar süreceği hakkında bilgim yok tahmınım kısa.
